@@ -5,17 +5,20 @@
 [![reward](https://make.fun/badge/news-image-20261118/AlexBeracun/makefun-news-image-20261118-01/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 One image summing up Wednesday 18 November 2026's world news, as a
-newspaper front page: "THE WORLD IN ONE PAGE".
+newspaper front page: "THE WORLD IN ONE PAGE" — 32 verified stories
+across six continents.
 
 Lead story: the Gulf flashpoint — US jets strike a Revolutionary Guard
 missile site on Qeshm Island, Iran fires drones at US sites in Bahrain
-and Kuwait. Then the Kerch bridge hit again, the APEC summit opening in
-Shenzhen ahead of Thursday's first Trump–Xi–Putin three-way meeting,
-Peltola winning Alaska to give Democrats a 56–44 Senate majority, the
-Ebola outbreak in Congo passing 11,000 cases, Voyager 1 reaching one
-light-day from Earth, and the US losing its measles-free status — plus
-Gaza, the Siberia plane crash and Cyclone Xavier in the "Also today"
-strip. Every event happened or was first reported on 18 November 2026.
+and Kuwait. Then four feature panels (Kerch bridge hit again, the APEC
+summit in Shenzhen with Trump in Manila for the QUAD, Peltola winning
+Alaska to give Democrats a 56–44 Senate majority, the Ebola outbreak in
+Congo passing 11,200 cases and 5,500 deaths) plus 27 briefs: Voyager 1
+reaching one light-day from Earth, the US losing measles-free status,
+the COP31 split in Antalya, Nvidia's record $115.8bn quarter, Gaza,
+Cyclone Xavier, the Knesset speaker vote, Houthi drones on a Saudi
+pipeline, a wave of bomb threats across Europe, and more. Every event
+happened or was first reported on 18 November 2026.
 
 ## How it is built
 
